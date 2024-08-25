@@ -114,3 +114,6 @@ sudo chmod +x file_name.sh
 ```
 
 Ensure your SSH session is active and stable when executing long-running scripts.
+
+
+For more detailed guide, please refer userGuide pdf for both sets
